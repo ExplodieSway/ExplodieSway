@@ -1,4 +1,4 @@
-Hey there, it's @ExplodieSway, aka. Swayam Gupta being my real name! I hope you can understand that I'm no code expert, more like a script kiddie or a fetus at best. Thank you.
+Hey there, it's @ExplodieSway! I hope you can understand that I'm no code expert, more like a script kiddie or a fetus at best. Thank you.
 
 <!---
 ExplodieSway/ExplodieSway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
